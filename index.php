@@ -11,13 +11,20 @@
         <!--For Mobile rendering-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
+        <?php include('header.php'); ?>
     <body>
+        <h1>heloowollsad</h1></br>
+        <h1>heloowollsad</h1></br>
+        <h1>heloowollsad</h1></br>
+        <h1>heloowollsad</h1></br>
+        <h1>heloowollsad</h1></br>
+        <h1>heloowollsad</h1></br>
     </body>
-<!--Link for project css-->
-<link rel="stylesheet" type="text/css" href="css/style.css"/>
-<!--Link for material design css and js-->
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
-<script defer src="https://code.getmdl.io/1.3.0/material.min.js" />
-
+        <?php include('footer.php'); ?>
+    <!--Link for project css-->
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <!--Link for material design css and js-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js" />
 </html>
